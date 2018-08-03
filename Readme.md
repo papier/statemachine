@@ -9,3 +9,7 @@ Obviously this is a very slow way to implement a state machine but I appreciate 
 It can be easily extended to trigger arbitrary actions before entering/leaving states.
 
 Another extension idea is to keep an internal current state and do transitions step wise instead of providing all transitions to the accept methods.
+
+## Thanks
+
+  - Thanks to Florian and Martin for introducing me to this solution.
