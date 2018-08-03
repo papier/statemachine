@@ -1,0 +1,5 @@
+target/
+nbactions.xml
+*.iml
+.idea/
+*.bak
